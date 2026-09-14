@@ -13,3 +13,4 @@ Add your name to the list below and link to your GitHub profile. Additionally, y
 
 ## Students
 
+[Xana Navoichick](https://github.com/xanablue) - Probably gaming, watching TV, listening to music, or petting a cat right now.
